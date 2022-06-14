@@ -1,12 +1,7 @@
 // dom elements
 const productDom = document.querySelector('.products-center');
 const cartContent = document.querySelector('.cart-content');
-const cartItems = document.querySelector('.cart-items');
-const cartButton = document.querySelector('.cart-btn');
-const cartOverlay = document.querySelector('.cart-overlay');
-const closeCart = document.querySelector('.close-cart');
-// const bagButtons = document.querySelectorAll('.bag-btn');
-// console.log(bagButtons);
+
 
 class Products {
     anyvalue = 'sonething'
